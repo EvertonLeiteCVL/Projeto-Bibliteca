@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.Master.cs" Inherits="Projeto_Biblioteca.Site1" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   
+    <title>Projeto Biblioteca</title> 
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <!-- ContentPlaceHolder para o cabeçalho -->
+            <asp:ContentPlaceHolder id="head" runat="server"></asp:ContentPlaceHolder>
+
+            <!-- ContentPlaceHolder para o conteúdo principal -->
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

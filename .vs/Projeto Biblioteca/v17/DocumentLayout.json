@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|c:\\users\\evert\\source\\repos\\projeto biblioteca\\site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|c:\\users\\evert\\source\\repos\\projeto biblioteca\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|c:\\users\\evert\\source\\repos\\projeto biblioteca\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\models\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:models\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\iclass\\imyfirstclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:iclass\\imyfirstclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|c:\\users\\evert\\source\\repos\\projeto biblioteca\\data\\livros.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:data\\livros.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\class\\myfirstclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:class\\myfirstclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\class\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:class\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\class\\configunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:class\\configunity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\class\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:class\\bibliotecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|c:\\users\\evert\\source\\repos\\projeto biblioteca\\data\\livros.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D879276-8402-4732-A8A1-97EA09FAE69F}|Projeto Biblioteca.csproj|solutionrelative:data\\livros.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T15:06:53.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "livros.xml",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Data\\livros.xml",
+              "RelativeDocumentMoniker": "Data\\livros.xml",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Data\\livros.xml",
+              "RelativeToolTip": "Data\\livros.xml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T14:59:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "livros.xml",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Data\\livros.xml",
+              "RelativeDocumentMoniker": "Data\\livros.xml",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Data\\livros.xml",
+              "RelativeToolTip": "Data\\livros.xml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T14:35:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Site1.Master.designer.cs",
+              "RelativeDocumentMoniker": "Site1.Master.designer.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Site1.Master.designer.cs",
+              "RelativeToolTip": "Site1.Master.designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:14:05.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\home.aspx",
+              "RelativeDocumentMoniker": "home.aspx",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\home.aspx",
+              "RelativeToolTip": "home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T20:22:40.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T12:11:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Models\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "Models\\LivroRepository.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Models\\LivroRepository.cs",
+              "RelativeToolTip": "Models\\LivroRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAADgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:10:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Models\\Livro.cs",
+              "RelativeToolTip": "Models\\Livro.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:01:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "Class\\ILivroRepository.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\ILivroRepository.cs",
+              "RelativeToolTip": "Class\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:41:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BibliotecaController.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\BibliotecaController.cs",
+              "RelativeDocumentMoniker": "Class\\BibliotecaController.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\BibliotecaController.cs",
+              "RelativeToolTip": "Class\\BibliotecaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:20:03.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\home.aspx.cs",
+              "RelativeDocumentMoniker": "home.aspx.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\home.aspx.cs",
+              "RelativeToolTip": "home.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:59:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:57:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfigUnity.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\ConfigUnity.cs",
+              "RelativeDocumentMoniker": "Class\\ConfigUnity.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\ConfigUnity.cs",
+              "RelativeToolTip": "Class\\ConfigUnity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:35:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyFirstClass.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\MyFirstClass.cs",
+              "RelativeDocumentMoniker": "Class\\MyFirstClass.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Class\\MyFirstClass.cs",
+              "RelativeToolTip": "Class\\MyFirstClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:33:02.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMyFirstclass.cs",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\IClass\\IMyFirstclass.cs",
+              "RelativeDocumentMoniker": "IClass\\IMyFirstclass.cs",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\IClass\\IMyFirstclass.cs",
+              "RelativeToolTip": "IClass\\IMyFirstclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:31:19.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "C:\\Users\\evert\\source\\repos\\Projeto Biblioteca\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-23T20:20:41.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
